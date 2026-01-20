@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 Sobre Mim
-Jailton Santos, 23 anos. **Desenvolvedor Backend Júnior em formação**, com conhecimentos sólidos em Python 3, POO e lógica de programação. Atualmente focado em aprofundar em banco de dados e análise de dados.
+Jailton Santos, 23 anos. **Desenvolvedor Backend Júnior em formação**, com conhecimentos sólidos em Python 3, POO e lógica de programação. Atualmente focado em aprofundar em banco de dados, análise de dados e ferramentas back-end.
 
 📫 **Atualmente aberto para oportunidades de estágio em Desenvolvimento de Software e Análise de Dados.**
 
@@ -18,21 +18,28 @@ Jailton Santos, 23 anos. **Desenvolvedor Backend Júnior em formação**, com co
 **Linguagens & Backend:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,mysql" />
+    <img src="https://skillicons.dev/icons?i=py,java" />
+  </a>
+</p>
+
+**Banco de Dados:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
 
 **Análise de Dados:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pandas,numpy,matplot" />
+    <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
   </a>
 </p>
 
-**Ferramentas & Ambiente:**
+**Ferramentas & IDEs:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,pycharm,vscode" />
   </a>
 </p>
 
