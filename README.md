@@ -1,9 +1,3 @@
-Aqui está o código completo para o seu README.md, já estruturado com os Skill Icons (que são os mais modernos e visualmente limpos atualmente) e com as correções de links que mencionamos.
-
-Basta copiar o conteúdo abaixo e colar no seu repositório Jayzmatos22:
-
-Markdown
-
 <h1 align="center">Olá, eu sou o Jailton Santos! 👋</h1>
 
 <p align="center">
