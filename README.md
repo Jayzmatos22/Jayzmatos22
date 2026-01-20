@@ -1,9 +1,5 @@
 <h1 align="center">Olá, eu sou o Jailton Santos! 👋</h1>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,mysql,pandas,numpy,git,vscode" />
-</p>
-
 ---
 
 ### 👨‍💻 Sobre Mim
@@ -13,10 +9,17 @@ Jailton Santos, 23 anos. **Desenvolvedor Backend Júnior em formação**, com co
 
 ### 🛠️ Minhas Tecnologias
 
-**Linguagens e Ferramentas:**
+**Linguagens e Bibliotecas:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,mysql,pandas,numpy,git,vscode,github,linux" />
+    <img src="https://skillicons.dev/icons?i=py,java,git,pandas,numpy,matplot" />
+  </a>
+</p>
+
+**Banco de Dados:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
 
