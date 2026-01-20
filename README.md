@@ -1,28 +1,63 @@
-# Jailton Santos
-### Junior Backend Developer in Training
+Aqui está o código completo para o seu README.md, já estruturado com os Skill Icons (que são os mais modernos e visualmente limpos atualmente) e com as correções de links que mencionamos.
 
-Jailton Santos, 23 anos. Desenvolvedor júnior em formação, com conhecimentos sólidos em Python 3, POO, lógica de programação. Básico em MySql. À procura de um estágio em desenvolvimento de Software.
+Basta copiar o conteúdo abaixo e colar no seu repositório Jayzmatos22:
 
-🛠️ **Tech Stack**
-- Intermediate: `Python` `Lógica de Programação`
-- Beginner: `MySql` `Java` `Pandas` `Numpy` `Matplotlib`
+Markdown
 
-🔭 **Featured Projects**
-- [Nexus-Academy-ERP](https://github.com/Jayzmatos22/Nexus-Academy-ERP) - ERP Acadêmico &amp; Financeiro modular em Python. +4.500 linhas de código, 125 funções integradas e análise de dados com Pandas/Numpy
-- [My_Investment_System](https://github.com/Jayzmatos22/My_Investment_System) - SISTEMA DE INVESTIMENTO/NEGÓCIO COM CONTABILIDADE BÁSICA E CRUD SIMPLES.
-- [SecureLoginValidator](https://github.com/Jayzmatos22/SecureLoginValidator) - Projeto em Python com foco em validar criação de e-mail e senha segundo os critérios da RFC 5322, NIST e LGPD.
-- [PraticalHealth_POO_Python](https://github.com/Jayzmatos22/PraticalHealth_POO_Python) - Um sistema desenvolvido em Python focado em Programação Orientada a Objetos (POO) para monitoramento de métricas de saúde, incluindo cálculo de IMC, análise de atividades físicas e metas de sono baseadas na idade.
+<h1 align="center">Olá, eu sou o Jailton Santos! 👋</h1>
 
-📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayzmatos22&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayzmatos22&theme=dark" alt="GitHub Streak" />
-  <img src="https://simpleicons.now.sh/python/3776AB" width="40" height="40" />
-  <img src="https://simpleicons.now.sh/java/ED8B00" width="40" height="40" />
-  <img src="https://simpleicons.now.sh/mysql/4479A1" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=py,java,mysql,pandas,numpy,git,vscode" />
 </p>
 
-🤝 **Connect With Me**
-- [GitHub](https://github.com/Jayzmatos22)
-- [LinkedIn](https://www.linkedin.com/in/jailton-santos-b149752a0)
-- [Email](mailto:Jailtonmatos200@gmail.com)
+---
+
+### 👨‍💻 Sobre Mim
+Jailton Santos, 23 anos. **Desenvolvedor Backend Júnior em formação**, com conhecimentos sólidos em Python 3, POO e lógica de programação. Atualmente focado em aprofundar em banco de dados e análise de dados, em busca de uma oportunidade de estágio para aplicar e expandir meus conhecimentos em desenvolvimento de Software.
+
+---
+
+### 🛠️ Minhas Tecnologias
+
+**Linguagens e Ferramentas:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,mysql,pandas,numpy,git,vscode,github,linux" />
+  </a>
+</p>
+
+* **Intermediário:** `Python` `Lógica de Programação`
+* **Iniciante:** `MySql` `Java` `Pandas` `Numpy` `Matplotlib`
+
+---
+
+### 🔭 Projetos em Destaque
+
+* 🚀 **[Nexus-Academy-ERP](https://github.com/Jayzmatos22/Nexus-Academy-ERP)** - ERP Acadêmico & Financeiro modular em Python. +4.500 linhas de código, 125 funções integradas e análise de dados com Pandas/Numpy.
+* 💰 **[My_Investment_System](https://github.com/Jayzmatos22/My_Investment_System)** - Sistema de investimento com contabilidade básica e CRUD completo.
+* 🛡️ **[SecureLoginValidator](https://github.com/Jayzmatos22/SecureLoginValidator)** - Validador de e-mail e senha seguindo critérios da RFC 5322, NIST e LGPD.
+* 🏥 **[PraticalHealth_POO_Python](https://github.com/Jayzmatos22/PraticalHealth_POO_Python)** - Monitoramento de métricas de saúde (IMC, sono e atividades) usando POO.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayzmatos22&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayzmatos22&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Vamos nos conectar?
+
+<p align="left">
+<a href="https://www.linkedin.com/in/jailton-santos-b149752a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:Jailtonmatos200@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
+
+---
+<p align="center">
+  <i>"O sucesso é o somatório de pequenos esforços repetidos dia após dia."</i>
+</p>
