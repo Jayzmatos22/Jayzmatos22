@@ -42,7 +42,7 @@ Jailton Santos, 23 anos. **Desenvolvedor Backend Júnior em formação**, com co
 ### 🔭 Projetos em Destaque
 
 * 🚀 **[Nexus-Academy-ERP](https://github.com/Jayzmatos22/Nexus-Academy-ERP)** *ERP Acadêmico & Financeiro modular. Implementação de lógica complexa, integração de 125 funções e análise de dados.*
-  **Techs:** `Python`, `Pandas`, `Numpy`, `POO`.
+  **Techs:** `Python`, `Pandas`, `Numpy`.
 
 * 💰 **[My_Investment_System](https://github.com/Jayzmatos22/My_Investment_System)** *Sistema de gestão de investimentos com contabilidade básica e operações CRUD.*
   **Techs:** `Python`, `Lógica de Programação`, `Manipulação de Dados`.
