@@ -32,7 +32,7 @@ Jailton Santos, 23 anos. **Desenvolvedor Backend Júnior em formação**, com co
 **Análise de Dados:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
+    <img src="https://skillicons.dev/icons?i=pandas,numpy,matplot" />
   </a>
 </p>
 
@@ -64,21 +64,3 @@ Jailton Santos, 23 anos. **Desenvolvedor Backend Júnior em formação**, com co
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayzmatos22&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayzmatos22&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
----
-
-### 🤝 Vamos nos conectar?
-
-<p align="left">
-<a href="https://www.linkedin.com/in/jailton-santos-b149752a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:Jailtonmatos200@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
----
-<p align="center">
-  <i>"O sucesso é o somatório de pequenos esforços repetidos dia após dia."</i>
-</p>
