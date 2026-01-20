@@ -17,6 +17,11 @@ Jailton Santos, 23 anos. Desenvolvedor júnior em formação, com conhecimentos 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jayzmatos22&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayzmatos22&theme=dark" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank"> 
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"> 
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" target="_blank"> 
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" target="_blank">
 </p>
 
 🤝 **Connect With Me**
