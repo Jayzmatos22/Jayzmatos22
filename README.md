@@ -48,7 +48,7 @@ Jailton Santos, 23 anos. **Desenvolvedor Backend Júnior em formação**, com co
   **Techs:** `Python`, `Lógica de Programação`, `Manipulação de Dados`.
 
 * 🛡️ **[SecureLoginValidator](https://github.com/Jayzmatos22/SecureLoginValidator)** *Segurança e validação de dados sensíveis seguindo normas RFC 5322 e LGPD.*
-  **Techs:** `Python`, `Regex`, `Segurança de Dados`.
+  **Techs:** `Python`, `Segurança de Dados`.
 
 * 🏥 **[PraticalHealth_POO_Python](https://github.com/Jayzmatos22/PraticalHealth_POO_Python)** *Sistema de monitoramento de saúde aplicando conceitos avançados de Programação Orientada a Objetos.*
   **Techs:** `Python`, `POO`.
