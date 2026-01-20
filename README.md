@@ -21,5 +21,5 @@ Jailton Santos, 23 anos. Desenvolvedor júnior em formação, com conhecimentos 
 
 🤝 **Connect With Me**
 - [GitHub](https://github.com/Jayzmatos22)
-- [LinkedIn][LinkedIn](https://www.linkedin.com/in/jailton-santos-b149752a0)
+- [LinkedIn](https://www.linkedin.com/in/jailton-santos-b149752a0)
 - [Email](mailto:Jailtonmatos200@gmail.com)
