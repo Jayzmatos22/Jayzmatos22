@@ -1,39 +1,56 @@
 <h1 align="center">Olá, eu sou o Jailton Santos! 👋</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20Busca%20de%20Est%C3%A1gio-green?style=for-the-badge" />
+</p>
+
 ---
 
 ### 👨‍💻 Sobre Mim
-Jailton Santos, 23 anos. **Desenvolvedor Backend Júnior em formação**, com conhecimentos sólidos em Python 3, POO e lógica de programação. Atualmente focado em aprofundar em banco de dados e análise de dados, em busca de uma oportunidade de estágio para aplicar e expandir meus conhecimentos em desenvolvimento de Software.
+Jailton Santos, 23 anos. **Desenvolvedor Backend Júnior em formação**, com conhecimentos sólidos em Python 3, POO e lógica de programação. Atualmente focado em aprofundar em banco de dados e análise de dados.
+
+📫 **Atualmente aberto para oportunidades de estágio em Desenvolvimento de Software e Análise de Dados.**
 
 ---
 
-### 🛠️ Minhas Tecnologias
+### 🛠️ Minha Caixa de Ferramentas
 
-**Linguagens e Bibliotecas:**
+**Linguagens & Backend:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,git,pandas,numpy,matplot" />
+    <img src="https://skillicons.dev/icons?i=py,java,mysql" />
   </a>
 </p>
 
-**Banco de Dados:**
+**Análise de Dados:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=pandas,numpy,matplot" />
   </a>
 </p>
 
-* **Intermediário:** `Python` `Lógica de Programação`
-* **Iniciante:** `MySql` `Java` `Pandas` `Numpy` `Matplotlib`
+**Ferramentas & Ambiente:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  </a>
+</p>
 
 ---
 
 ### 🔭 Projetos em Destaque
 
-* 🚀 **[Nexus-Academy-ERP](https://github.com/Jayzmatos22/Nexus-Academy-ERP)** - ERP Acadêmico & Financeiro modular em Python. +4.500 linhas de código, 125 funções integradas e análise de dados com Pandas/Numpy.
-* 💰 **[My_Investment_System](https://github.com/Jayzmatos22/My_Investment_System)** - Sistema de investimento com contabilidade básica e CRUD completo.
-* 🛡️ **[SecureLoginValidator](https://github.com/Jayzmatos22/SecureLoginValidator)** - Validador de e-mail e senha seguindo critérios da RFC 5322, NIST e LGPD.
-* 🏥 **[PraticalHealth_POO_Python](https://github.com/Jayzmatos22/PraticalHealth_POO_Python)** - Monitoramento de métricas de saúde (IMC, sono e atividades) usando POO.
+* 🚀 **[Nexus-Academy-ERP](https://github.com/Jayzmatos22/Nexus-Academy-ERP)** *ERP Acadêmico & Financeiro modular. Implementação de lógica complexa, integração de 125 funções e análise de dados.*
+  **Techs:** `Python`, `Pandas`, `Numpy`, `POO`.
+
+* 💰 **[My_Investment_System](https://github.com/Jayzmatos22/My_Investment_System)** *Sistema de gestão de investimentos com contabilidade básica e operações CRUD.*
+  **Techs:** `Python`, `Lógica de Programação`, `Manipulação de Dados`.
+
+* 🛡️ **[SecureLoginValidator](https://github.com/Jayzmatos22/SecureLoginValidator)** *Segurança e validação de dados sensíveis seguindo normas RFC 5322 e LGPD.*
+  **Techs:** `Python`, `Regex`, `Segurança de Dados`.
+
+* 🏥 **[PraticalHealth_POO_Python](https://github.com/Jayzmatos22/PraticalHealth_POO_Python)** *Sistema de monitoramento de saúde aplicando conceitos avançados de Programação Orientada a Objetos.*
+  **Techs:** `Python`, `POO`.
 
 ---
 
@@ -50,8 +67,8 @@ Jailton Santos, 23 anos. **Desenvolvedor Backend Júnior em formação**, com co
 ### 🤝 Vamos nos conectar?
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jailton-santos-b149752a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:Jailtonmatos200@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jailton-santos-b149752a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:Jailtonmatos200@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
