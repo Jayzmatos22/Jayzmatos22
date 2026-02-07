@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 Sobre Mim
-Jailton Santos, 23 anos. **Desenvolvedor Backend Júnior em formação**, com conhecimentos sólidos em Python 3, POO e lógica de programação. Atualmente focado em aprofundar em banco de dados, análise de dados e ferramentas back-end.
+Jailton Santos, 23 anos. **Desenvolvedor Backend Júnior em formação**, com conhecimentos sólidos em Python 3, Java, POO e lógica de programação. Atualmente focado em aprofundar em banco de dados, análise de dados e ferramentas back-end.
 
 📫 **Atualmente aberto para oportunidades de estágio em Desenvolvimento de Software e Análise de Dados.**
 
