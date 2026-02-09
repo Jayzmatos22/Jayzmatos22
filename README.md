@@ -43,6 +43,9 @@ Jailton Santos, 23 anos. **Desenvolvedor Backend Júnior em formação**, com co
 
 * 🚀 **[Complete-banking-system---POO-Python](https://github.com/Jayzmatos22/Complete-banking-system---POO-Python)** *Sistema bancário compelto com funcionalidades reais, usando conceitos sólidos de POO em Python e MySql.*
   **Techs:** `Python`, `MySql`, `MVC`.
+  
+* 🚀 **[Basic-curriculum-in-HTML-CSS](https://github.com/Jayzmatos22/Basic-curriculum-in-HTML-CSS)** *Página web sobre mim.*
+  **Techs:** `CSS`, `HTML`,.
 
 * 🚀 **[Nexus-Academy-ERP](https://github.com/Jayzmatos22/Nexus-Academy-ERP)** *ERP Acadêmico & Financeiro modular. Implementação de lógica complexa, integração de 125 funções e análise de dados.*
   **Techs:** `Python`, `Pandas`, `Numpy`.
