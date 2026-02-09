@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 Sobre Mim
-Jailton Santos, 23 anos. **Desenvolvedor Backend Júnior em formação**, com conhecimentos sólidos em Python 3, Java, POO e lógica de programação. Atualmente focado em aprofundar em banco de dados, análise de dados e ferramentas back-end.
+Jailton Santos, 23 anos. **Desenvolvedor Backend Júnior em formação**, focado em construir sistemas robustos e escaláveis. Atualmente cursando Análise e Desenvolvimento de Sistemas, com forte base em lógica de programação e arquitetura de dados.
 
 📫 **Atualmente aberto para oportunidades de estágio em Desenvolvimento de Software e Análise de Dados.**
 
@@ -15,14 +15,9 @@ Jailton Santos, 23 anos. **Desenvolvedor Backend Júnior em formação**, com co
 
 ### 🛠️ Minha Caixa de Ferramentas
 
-**Linguagens & Backend:**
+#### ⚙️ Back-end & Dados (Core)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java" />
-</p>
-
-**Banco de Dados:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=py,java,spring,mysql" />
 </p>
 
 **Análise de Dados:**
@@ -32,32 +27,28 @@ Jailton Santos, 23 anos. **Desenvolvedor Backend Júnior em formação**, com co
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
 </p>
 
-**Ferramentas & IDEs:**
+#### 🎨 Front-end (UI/UX)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,pycharm,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+#### 🔧 Ferramentas & IDEs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,idea,pycharm,vscode" />
 </p>
 
 ---
 
 ### 🔭 Projetos em Destaque
 
-* 🚀 **[Complete-banking-system---POO-Python](https://github.com/Jayzmatos22/Complete-banking-system---POO-Python)** *Sistema bancário compelto com funcionalidades reais, usando conceitos sólidos de POO em Python e MySql.*
-  **Techs:** `Python`, `MySql`, `MVC`.
-  
-* 🚀 **[Basic-curriculum-in-HTML-CSS](https://github.com/Jayzmatos22/Basic-curriculum-in-HTML-CSS)** *Página web sobre mim.*
-  **Techs:** `CSS`, `HTML`,.
-
-* 🚀 **[Nexus-Academy-ERP](https://github.com/Jayzmatos22/Nexus-Academy-ERP)** *ERP Acadêmico & Financeiro modular. Implementação de lógica complexa, integração de 125 funções e análise de dados.*
-  **Techs:** `Python`, `Pandas`, `Numpy`.
-
-* 💰 **[My_Investment_System](https://github.com/Jayzmatos22/My_Investment_System)** *Sistema de gestão de investimentos com contabilidade básica e operações CRUD.*
-  **Techs:** `Python`, `Lógica de Programação`, `Manipulação de Dados`.
-
-* 🛡️ **[SecureLoginValidator](https://github.com/Jayzmatos22/SecureLoginValidator)** *Segurança e validação de dados sensíveis seguindo normas RFC 5322 e LGPD.*
-  **Techs:** `Python`, `Segurança de Dados`.
-
-* 🏥 **[PraticalHealth_POO_Python](https://github.com/Jayzmatos22/PraticalHealth_POO_Python)** *Sistema de monitoramento de saúde aplicando conceitos avançados de Programação Orientada a Objetos.*
-  **Techs:** `Python`, `POO`.
+#### 🔩 Back-end
+* 🚀 **[Complete-banking-system](https://github.com/Jayzmatos22/Complete-banking-system---POO-Python)** - Sistema bancário completo com MVC e MySQL.
+* 🚀 **[Nexus-Academy-ERP](https://github.com/Jayzmatos22/Nexus-Academy-ERP)** - ERP Acadêmico & Financeiro modular com análise de dados.
+* 🏦 **[POO-aplications-java-bank](https://github.com/Jayzmatos22/POO-aplications-java-bank)** - Sistema bancário em Java.
+* 🥬 **[Spring-Boot-Jpa-fridge](https://github.com/Jayzmatos22/Spring-Boot-Jpa-fridge)** - Aplicação simples usando Spring Boot e Jpa, H2 para um sistema de cadastro de alimentos..
+* 
+#### 🌐 Front-end
+* 🚀 **[Basic-curriculum-in-HTML-CSS](https://github.com/Jayzmatos22/Basic-curriculum-in-HTML-CSS)** - Landing page de perfil pessoal com efeitos CSS modernos.
 
 ---
 
