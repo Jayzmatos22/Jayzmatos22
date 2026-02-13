@@ -1,21 +1,21 @@
-<h1 align="center">Olá, eu sou o Jailton Santos! 👋</h1>
+<h1 align="center">Olá, eu sou o <span style="color: #38bdf8;">Jailton Santos</span>! 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Busca%20de%20Est%C3%A1gio-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Em%20Busca%20de%20Est%C3%A1gio-38bdf8?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
 ---
 
 ### 👨‍💻 Sobre Mim
-Jailton Santos, 23 anos. **Desenvolvedor Backend Júnior em formação**, focado em construir sistemas robustos e escaláveis. Atualmente cursando Análise e Desenvolvimento de Sistemas, com forte base em lógica de programação e arquitetura de dados.
+Jailton Santos, 23 anos. **Desenvolvedor Backend (e full stack) Júnior em formação**, focado em construir sistemas robustos e escaláveis. Curso ADS, focando em domínio de lógica POO, usando Python, Java Spring Boot, Javascript, html, css e Tailwind.
 
-📫 **Atualmente aberto para oportunidades de estágio em Desenvolvimento de Software e Análise de Dados.**
+📫 **Atualmente aberto para oportunidades de estágio em Desenvolvimento Back-end ou Full Stack.**
 
 ---
 
 ### 🛠️ Minha Caixa de Ferramentas
 
-#### ⚙️ Back-end & Dados (Core)
+#### ⚙️ Back-end & Dados
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,java,spring,mysql" />
 </p>
@@ -27,9 +27,9 @@ Jailton Santos, 23 anos. **Desenvolvedor Backend Júnior em formação**, focado
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
 </p>
 
-#### 🎨 Front-end (UI/UX)
+#### 🎨 Front-end & Scripting
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
 </p>
 
 #### 🔧 Ferramentas & IDEs
@@ -41,23 +41,22 @@ Jailton Santos, 23 anos. **Desenvolvedor Backend Júnior em formação**, focado
 
 ### 🔭 Projetos em Destaque
 
-#### 🔩 Back-end
-* 🚀 **[Complete-banking-system](https://github.com/Jayzmatos22/Complete-banking-system---POO-Python)** - Sistema bancário completo com MVC e MySQL.
+#### 🔩 Full-Stack & Back-end
+* 🚀 **[Full-Stack-Java-Register](https://github.com/Jayzmatos22/full_stack_java_register_system)** - Sistema completo de cadastro acadêmico com Java Spring Boot, MySQL e Front-end integrado.
+* 🚀 **[Complete-banking-system](https://github.com/Jayzmatos22/Complete-banking-system---POO-Python)** - Sistema bancário robusto com arquitetura MVC em Python e persistência em MySQL.
 * 🚀 **[Nexus-Academy-ERP](https://github.com/Jayzmatos22/Nexus-Academy-ERP)** - ERP Acadêmico & Financeiro modular com análise de dados.
-* 🏦 **[POO-aplications-java-bank](https://github.com/Jayzmatos22/POO-aplications-java-bank)** - Sistema bancário em Java.
-* 🥬 **[Spring-Boot-Jpa-fridge](https://github.com/Jayzmatos22/Spring-Boot-Jpa-fridge)** - Aplicação simples usando Spring Boot e Jpa, H2 para um sistema de cadastro de alimentos..
-* 
+* 🥬 **[Spring-Boot-Jpa-fridge](https://github.com/Jayzmatos22/Spring-Boot-Jpa-fridge)** - API de gerenciamento de estoque (geladeira) usando Spring Data JPA e H2.
+
 #### 🌐 Front-end
-* 🚀 **[Basic-curriculum-in-HTML-CSS](https://github.com/Jayzmatos22/Basic-curriculum-in-HTML-CSS)** - Landing page de perfil pessoal com efeitos CSS modernos.
+* 🚀 **[Basic-curriculum-in-HTML-CSS](https://github.com/Jayzmatos22/Basic-curriculum-in-HTML-CSS)** - Landing page de perfil pessoal com efeitos CSS modernos e design responsivo.
+* 📊 **[Controle-Gastos-Mensais](https://github.com/Jayzmatos22/Controle-gastos-mensais)** - Dashboard financeiro interativo para controle de rendimentos e despesas.
 
 ---
 
-### 📊 Estatísticas do GitHub
-
+### 📊 Estatísticas e Atividade
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayzmatos22&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayzmatos22&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayzmatos22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayzmatos22&theme=tokyonight&hide_border=true&background=0D1117" height="150" />
 </p>
 
 ---
@@ -71,5 +70,5 @@ Jailton Santos, 23 anos. **Desenvolvedor Backend Júnior em formação**, focado
 
 ---
 <p align="center">
-  <i>"O sucesso é o somatório de pequenos esforços repetidos dia após dia."</i>
+  <i>"Não sou gênio, sou PERSISTENTE!!!."</i>
 </p>
