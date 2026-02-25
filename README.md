@@ -39,9 +39,10 @@ Jailton Santos, 23 anos. **Desenvolvedor Backend (e full stack) Júnior em forma
 
 ---
 
-### 🔭 Projetos em Destaque
+### 🔭 Projetos em Destaque 
 
 #### 🔩 Full-Stack & Back-end
+* 🍿 **[Movie-Zone-Platform-for-creating-movie-playlists](https://github.com/Jayzmatos22/Movie-Zone-Platform-for-creating-movie-playlists.)** - Sistema fullstack feito em Java com a funcionalidade principal de criar playlist para catalogar e classificar filmes assistidos.
 * 🚀 **[Full-Stack-Java-Register](https://github.com/Jayzmatos22/full_stack_java_register_system)** - Sistema completo de cadastro acadêmico com Java Spring Boot, MySQL e Front-end integrado.
 * 🚀 **[Complete-banking-system](https://github.com/Jayzmatos22/Complete-banking-system---POO-Python)** - Sistema bancário robusto com arquitetura MVC em Python e persistência em MySQL.
 * 🚀 **[Nexus-Academy-ERP](https://github.com/Jayzmatos22/Nexus-Academy-ERP)** - ERP Acadêmico & Financeiro modular com análise de dados.
