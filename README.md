@@ -51,6 +51,7 @@ Jailton Santos, 23 anos. **Desenvolvedor Backend (e full stack) Júnior em forma
 #### 🌐 Front-end
 * 🚀 **[Basic-curriculum-in-HTML-CSS](https://github.com/Jayzmatos22/Basic-curriculum-in-HTML-CSS)** - Landing page de perfil pessoal com efeitos CSS modernos e design responsivo.
 * 📊 **[Controle-Gastos-Mensais](https://github.com/Jayzmatos22/Controle-gastos-mensais)** - Dashboard financeiro interativo para controle de rendimentos e despesas.
+* 📥 **[Inventário-Pro](https://github.com/Jayzmatos22/Invent-rio-Pro-front-end-js)** - Gestão de estoque inteligente com JavaScript, Tailwind e LocalStorage.
 
 ---
 
