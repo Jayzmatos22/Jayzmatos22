@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o <span style="color: #38bdf8;">Jailton Santos</span>! 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Busca%20de%20Est%C3%A1gio-38bdf8?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Estagi%C3%A1rio%20de%20Opera%C3%A7%C3%B5es-38bdf8?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
 ---
