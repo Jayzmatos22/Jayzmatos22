@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 Sobre Mim
-Jailton Santos, 23 anos. **Desenvolvedor Backend (e full stack) Júnior em formação**, focado em construir sistemas robustos e escaláveis. Curso ADS, focando em domínio de lógica POO, usando Python, Java Spring Boot, Javascript, html, css e Tailwind.
+Jailton Santos, 23 anos. **Desenvolvedor Backend (e full stack) Júnior em formação**, focado em construir sistemas robustos e escaláveis. Curso ADS há 7 MESES, focando em domínio de lógica POO, usando Python, Java Spring Boot, Javascript, html, css e Tailwind.
 
 📫 **Atualmente aberto para oportunidades de estágio em Desenvolvimento Back-end ou Full Stack.**
 
