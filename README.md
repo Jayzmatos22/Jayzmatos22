@@ -52,7 +52,7 @@ Jailton Santos, 23 anos. **Desenvolvedor Backend (e full stack) Júnior em forma
   **O que é:** Sistema bancário robusto com persistência em banco de dados relacional. <br>
   **Destaque Técnico:** Forte aplicação de POO (Encapsulamento, @property), arquitetura MVC e transações seguras (Commit/Rollback).
 
-* 🍿 **[Movie Zone Platform](https://github.com/Jayzmatos22/Movie-Zone-Platform-for-creating-movie-playlists)** <br>
+* 🍿 **[Movie-Zone-Platform](https://github.com/Jayzmatos22/Movie-Zone-Platform-for-creating-movie-playlists.)** <br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br>
   **O que é:** Plataforma Full-Stack para criação e gestão de playlists de filmes.<br>
   **Destaque Técnico:** Aplicação do padrão MVC, injeção de dependências e integração com Spring Data JPA.
