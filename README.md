@@ -33,7 +33,7 @@ Jailton Santos, 23 anos. **Desenvolvedor Backend (e full stack) Júnior em forma
 
 #### 🎨 Front-end & Scripting
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
 </p>
 
 #### 🔧 Ferramentas & IDEs
