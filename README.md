@@ -85,6 +85,9 @@ Jailton Santos, 23 anos. **Desenvolvedor Backend (e full stack) Júnior em forma
   **O que é:** Clone da interface de autenticação da Netflix.<br>
   **Destaque Técnico:** Foco em UI/UX, design responsivo e validação de formulários em tempo real.
 
+* 📦 **[Task Master react](https://github.com/Jayzmatos22/Task-Master-react)** <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br>
+  **O que é:** Gestão de tarefas inteligente em React.js com foco em UI/UX e persistência de dados.
 
 ---
 
