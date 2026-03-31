@@ -1,12 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Desenvolvedor%20Back-end%20Júnior&fontSize=40&fontColor=38bdf8&animation=twinkling&desc=Python%20|%20Java%20|%20Spring%20Boot%20|%20JavaScript%20|%20Tailwind&descAlignY=70&descSize=20&descColor=ffffff" width="100%" />
-</p>
-
-<h1 align="center">Olá, eu sou o <span style="color: #38bdf8;">Jailton Santos</span> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Estagi%C3%A1rio%20de%20Opera%C3%A7%C3%B5es-38bdf8?style=for-the-badge&logo=rocket&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,041e2b,0D1117&height=250&section=header&text=Desenvolvedor%20Back-end%20Júnior&fontSize=42&fontColor=8DB13F&animation=twinkling&desc=Java%20|%20Spring%20Boot%20|%20React%20|%20Tailwind&descAlignY=70&descSize=20&descColor=61DAFB" width="100%" />
+</div>
 
 ---
 
