@@ -80,6 +80,10 @@ Jailton Santos, 23 anos. **Desenvolvedor Backend (e full stack) Júnior em forma
   <img src="https://github-readme-stats.vercel.app/api?username=Jayzmatos22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayzmatos22&theme=tokyonight&hide_border=true&background=0D1117" height="150" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayzmatos22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
+</p>
+
 
 ---
 
