@@ -15,7 +15,7 @@ Jailton Santos, 23 anos. **Desenvolvedor Backend (e full stack) Júnior em forma
 
 #### ⚙️ Back-end & Dados
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,spring,mysql" />
+  <img src="https://skillicons.dev/icons?i=py,java,spring,mysql,postgres,junit" />
 </p>
 
 **Análise de Dados:**
@@ -32,7 +32,7 @@ Jailton Santos, 23 anos. **Desenvolvedor Backend (e full stack) Júnior em forma
 
 #### 🔧 Ferramentas & IDEs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,pycharm,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,idea,pycharm,vscode,docker" />
 </p>
 
 ---
