@@ -37,9 +37,13 @@ Jailton Santos, 23 anos. **Desenvolvedor Backend (e full stack) Júnior em forma
 
 ---
 
-### 🔭 Projetos em Destaque 
+### 🔭 Projetos em Destaque https://github.com/Jayzmatos22/Full-Stack-Spring-Security-study/tree/main
 
 #### ⚙️ Back-end & Full-Stack
+
+* 💼 **[fullstack-spring-security-jwt](https://github.com/Jayzmatos22/Full-Stack-Spring-Security-study/tree/main)** <br>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"  /><br>
+  **O que é:** Sistema fullstack para estudo do JWT na segurança de aplicações.
 
 * 💼 **[Financial System](https://github.com/Jayzmatos22/Complete-banking-system---POO-Python)** <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/POO-8A2BE2?style=flat-square&logoColor=white" /><br>
