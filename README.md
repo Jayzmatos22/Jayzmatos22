@@ -1,104 +1,108 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,041e2b,0D1117&height=250&section=header&text=Desenvolvedor%20Back-end%20Júnior&fontSize=42&fontColor=8DB13F&animation=twinkling&desc=Java%20|%20Spring%20Boot%20|%20React%20|%20Tailwind&descAlignY=70&descSize=20&descColor=61DAFB" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,041e2b,0D1117&height=220&section=header&text=Jailton%20Santos&fontSize=58&fontColor=8DB13F&animation=twinkling&desc=Backend%20Júnior%20•%20Java%20%7C%20Spring%20%7C%20React&descAlignY=72&descSize=18&descColor=61DAFB" width="100%" />
+
+  <a href="https://www.linkedin.com/in/jailton-santos-b149752a0">
+    <img src="https://img.shields.io/badge/Open_to_Work-Estágio_Backend%2FFullstack-8DB13F?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Jayzmatos22&style=for-the-badge&color=8DB13F&label=Visitantes" />
+  <img src="https://img.shields.io/github/followers/Jayzmatos22?style=for-the-badge&color=61DAFB&labelColor=0D1117" />
+
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=700&color=8DB13F&center=true&vCenter=true&width=600&lines=Construindo+sistemas+robustos+e+escaláveis;Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;Em+busca+da+primeira+oportunidade+%F0%9F%9A%80" />
 </div>
 
 ---
 
-### 👨‍💻 Sobre Mim
-Jailton Santos, 23 anos. **Desenvolvedor Backend (e full stack) Júnior em formação**, focado em construir sistemas robustos e escaláveis. Curso ADS, focando em domínio de lógica POO, usando Python, Java Spring Boot, TypeScript, Javascript, HTML, CSS e Tailwind.
+### 👨‍💻 Sobre mim
 
-📫 **Atualmente aberto para oportunidades de estágio em Desenvolvimento Back-end ou Full Stack.**
-
----
-
-### 🛠️ Minha Caixa de Ferramentas
-
-#### ⚙️ Back-end & Banco de Dados
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,spring,mysql,postgres,junit" />
-</p>
-
-**Análise de Dados:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
-</p>
-
-#### 🎨 Front-end & Framework
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react" />
-</p>
-
-#### 🔧 Ferramentas & IDEs
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,pycharm,vscode,docker" />
-</p>
+​```
+MEU NOME É JAILTON, 23 ANOS, DESENVOLVEDOR FULLSTÁCK JÚNIOR, COM GRANDE FOCO EM BACK-END, EM BUSCA DE ESTÁGIO OU OPORTUNIDADE JÚNIOR NA ÁREA. STACK: jAVA, SPRINGBOOT, DOCKER, REACT.JS + TAILWIND CSS.
+​```
 
 ---
 
-### 🔭 Projetos em Destaque
+### 🛠️ Stack
 
-#### ⚙️ Back-end & Full-Stack
-
-* 💼 **[fullstack-spring-security-jwt](https://github.com/Jayzmatos22/Full-Stack-Spring-Security-study/tree/main)** <br>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"  /><br>
-  **O que é:** Sistema fullstack para estudo do JWT na segurança de aplicações.
-
-* 💼 **[Financial System](https://github.com/Jayzmatos22/Complete-banking-system---POO-Python)** <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/POO-8A2BE2?style=flat-square&logoColor=white" /><br>
-  **O que é:** Sistema bancário robusto com persistência em banco de dados relacional. <br>
-  **Destaque Técnico:** Forte aplicação de POO (Encapsulamento, @property), arquitetura MVC e transações seguras.
-
-* 🍿 **[Movie-Zone-Platform](https://github.com/Jayzmatos22/Movie-Zone-Platform-for-creating-movie-playlists.)** <br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br>
-  **O que é:** Plataforma Full-Stack para criação e gestão de playlists de filmes.<br>
-  **Destaque Técnico:** Padrão MVC, injeção de dependências e integração com Spring Data JPA.
-
-* 🎓 **[Sistema Full Stack de Cadastro de Alunos](https://github.com/Jayzmatos22/full_stack_java_register_system)** <br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br>
-  **O que é:** Sistema completo de cadastro acadêmico.<br>
-  **Destaque Técnico:** Integração ponta a ponta entre Back-end estruturado e Front-end dinâmico.
-
-
-#### 🎨 Front-end
-
-* 🛒 **[Nexus Shop - E-commerce Dashboard](https://github.com/Jayzmatos22/Nexus-shop-eccomerce)** <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /><br>
-  **O que é:** Plataforma de e-commerce moderna com interface Dark/Neon e experiência de usuário premium.<br>
-  **Destaque Técnico:** Sincronização de estado global via Custom Events, persistência de dados (LocalStorage) e tipagem rigorosa com TypeScript.
-
-* 📦 **[Inventário Pro (InvPro)](https://github.com/Jayzmatos22/Invent-rio-Pro-front-end-js)** <br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br>
-  **O que é:** Dashboard web para gestão inteligente de estoque.<br>
-  **Destaque Técnico:** Manipulação dinâmica do DOM, componentização visual e persistência local.
-
-* 📦 **[Task Master React](https://github.com/Jayzmatos22/Task-Master-react)** <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /><br>
-  **O que é:** Gestão de tarefas inteligente com foco em UI/UX e alto desempenho.
+<table>
+  <tr>
+    <td align="center" width="120"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,py,nodejs" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Banco & Dados</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps & Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,docker,idea,pycharm,vscode" /></td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Estatísticas e Atividade
+### 🔭 Projetos em destaque
+
+#### ⚙️ Backend & Full-Stack
+
+| Projeto | Stack | Destaque |
+|---|---|---|
+| **[🔐 Spring Security JWT](https://github.com/Jayzmatos22/Full-Stack-Spring-Security-study)** | Java • Spring Boot • Spring Security • JWT • H2 | Autenticação stateless completa |
+| **[💰 Financial System](https://github.com/Jayzmatos22/Complete-banking-system---POO-Python)** | Python • MySQL • POO | MVC + transações seguras + `@property` |
+| **[🍿 Movie Zone](https://github.com/Jayzmatos22/Movie-Zone-Platform-for-creating-movie-playlists.)** | Java • Spring Boot • JPA • MySQL | MVC + injeção de dependências |
+| **[🎓 Cadastro de Alunos](https://github.com/Jayzmatos22/full_stack_java_register_system)** | Java • Spring Boot • MySQL | Integração ponta a ponta |
+
+#### 🎨 Frontend
+
+| Projeto | Stack | Destaque |
+|---|---|---|
+| **[🛒 Nexus Shop](https://github.com/Jayzmatos22/Nexus-shop-eccomerce)** | React • TS • Tailwind • Vite | Custom Events + LocalStorage + tipagem |
+| **[📦 Inventário Pro](https://github.com/Jayzmatos22/Invent-rio-Pro-front-end-js)** | JS • Tailwind • HTML5 | DOM dinâmico + componentização |
+| **[✅ Task Master](https://github.com/Jayzmatos22/Task-Master-react)** | React • Tailwind | Foco em UI/UX e performance |
+
+---
+
+### 📊 GitHub em números
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayzmatos22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayzmatos22&theme=tokyonight&hide_border=true&background=0D1117" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayzmatos22&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&exclude_repo=Basic-curriculum-in-HTML-CSS,login-Netflix-page,Controle-gastos-mensais&size_weight=0.5&count_weight=0.5" height="220" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jayzmatos22&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</div>
+
+#### 📈 Atividade
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayzmatos22&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8DB13F&line=61DAFB&point=ffffff&area=true" width="95%" />
+</div>
+
+---
+
+### 🤝 Vamos conversar?
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayzmatos22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayzmatos22&theme=tokyonight&hide_border=true&background=0D1117" height="150" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayzmatos22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
-</p>
-
-
----
-
-### 🤝 Vamos nos conectar?
-
-<p align="left">
-<a href="https://www.linkedin.com/in/jailton-santos-b149752a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:Jailtonmatos200@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jailton-santos-b149752a0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jailtonmatos200@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Jayzmatos22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
-<p align="center">
-  <i>"Não sou gênio, sou PERSISTENTE!!!."</i>
-</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <br/>
+  <i>"Não sou gênio, sou PERSISTENTE."</i>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,041e2b,0D1117&height=100&section=footer" width="100%"/>
+</div>
