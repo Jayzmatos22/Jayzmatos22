@@ -37,7 +37,7 @@ Jailton Santos, 23 anos. **Desenvolvedor Backend (e full stack) Júnior em forma
 
 ---
 
-### 🔭 Projetos em Destaque https://github.com/Jayzmatos22/Full-Stack-Spring-Security-study/tree/main
+### 🔭 Projetos em Destaque
 
 #### ⚙️ Back-end & Full-Stack
 
