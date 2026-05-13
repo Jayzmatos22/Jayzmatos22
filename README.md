@@ -9,8 +9,7 @@
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=700&color=8DB13F&center=true&vCenter=true&width=600&lines=Construindo+sistemas+robustos+e+escaláveis;Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;Em+busca+da+primeira+oportunidade+%F0%9F%9A%80" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=700&color=8DB13F&center=true&vCenter=true&width=600&lines=Construindo+sistemas+robustos+e+escal%C3%A1veis;Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;Em+busca+da+primeira+oportunidade" />
 
 ---
 
@@ -27,7 +26,7 @@ MEU NOME É JAILTON, 23 ANOS, DESENVOLVEDOR FULLSTÁCK JÚNIOR, COM GRANDE FOCO 
 <table>
   <tr>
     <td align="center" width="120"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,py,nodejs" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,py" /></td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
@@ -87,6 +86,13 @@ MEU NOME É JAILTON, 23 ANOS, DESENVOLVEDOR FULLSTÁCK JÚNIOR, COM GRANDE FOCO 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayzmatos22&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8DB13F&line=61DAFB&point=ffffff&area=true" width="95%" />
 </div>
 
+#### 📊 Linguagens mais usadas
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jayzmatos22&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jayzmatos22&theme=tokyonight" height="180" />
+</div>
+
 ---
 
 ### 🤝 Vamos conversar?
@@ -106,3 +112,4 @@ MEU NOME É JAILTON, 23 ANOS, DESENVOLVEDOR FULLSTÁCK JÚNIOR, COM GRANDE FOCO 
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,041e2b,0D1117&height=100&section=footer" width="100%"/>
 </div>
+
