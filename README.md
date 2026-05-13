@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/jailton-santos-b149752a0">
     <img src="https://img.shields.io/badge/Open_to_Work-Estágio_Backend%2FFullstack-8DB13F?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Jayzmatos22&style=for-the-badge&color=8DB13F&label=Visitantes" />
+  <img src="https://komarev.com/ghpvc/?username=Jayzmatos22&style=for-the-badge&color=8DB13F&label=Profile+Views&base=0" />
   <img src="https://img.shields.io/github/followers/Jayzmatos22?style=for-the-badge&color=61DAFB&labelColor=0D1117" />
 
   <br/><br/>
