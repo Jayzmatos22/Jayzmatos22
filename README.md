@@ -33,8 +33,8 @@ MEU NOME É JAILTON, 23 ANOS, DESENVOLVEDOR FULLSTÁCK JÚNIOR, COM GRANDE FOCO 
     <td><img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css" /></td>
   </tr>
   <tr>
-    <td align="center"><b>Banco & Dados</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,postgres" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /></td>
+    <td align="center"><b>Banco de Dados</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres" /> 
   </tr>
   <tr>
     <td align="center"><b>DevOps & Tools</b></td>
