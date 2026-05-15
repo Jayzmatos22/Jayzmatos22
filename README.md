@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,041e2b,0D1117&height=220&section=header&text=Jailton%20Santos&fontSize=58&fontColor=8DB13F&animation=twinkling&desc=Backend%20Júnior%20•%20Java%20%7C%20Spring%20%7C%20React&descAlignY=72&descSize=18&descColor=61DAFB" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,041e2b,0D1117&height=220&section=header&text=Jailton%20Santos&fontSize=58&fontColor=8DB13F&animation=twinkling&desc=FullStack%20Júnior%20•%20Java%20%7C%20Spring%20%7C%20React&descAlignY=72&descSize=18&descColor=61DAFB" width="100%" />
 
   <a href="https://www.linkedin.com/in/jailton-santos-b149752a0">
     <img src="https://img.shields.io/badge/Open_to_Work-Estágio_Backend%2FFullstack-8DB13F?style=for-the-badge&logo=googlechrome&logoColor=white" />
