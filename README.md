@@ -43,6 +43,27 @@ MEU NOME É JAILTON, 23 ANOS, DESENVOLVEDOR FULLSTÁCK JÚNIOR, COM GRANDE FOCO 
 </table>
 
 ---
+ <table>
+    <tr>
+      <td align="center" width="100%">
+        <h3>🇧🇷 Brasil Panel Utilities API</h3>
+        <a href="https://github.com/Jayzmatos22/brasil_panel_utilities-api">
+          <img src="https://img.shields.io/badge/Status-Em_Construção-yellow?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Monorepo-Backend_%2B_Frontend-8DB13F?style=for-the-badge" />
+        <br/><br/>
+        <p>Painel de dados financeiros brasileiros com múltiplas integrações de API, autenticação JWT stateless e cache Caffeine por ambiente.</p>
+        <p>
+          <b>APIs:</b> BCB · BrasilAPI · CoinGecko · Frankfurter · IBGE · WorldBank
+        </p>
+        <img src="https://skillicons.dev/icons?i=java,spring,react,ts,docker" />
+      </td>
+    </tr>
+  </table>
+
+---
+
 
 ### 🔭 Projetos em destaque
 
