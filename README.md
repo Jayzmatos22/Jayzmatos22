@@ -97,9 +97,7 @@ MEU NOME É JAILTON, 23 ANOS, DESENVOLVEDOR FULLSTÁCK, COM GRANDE FOCO EM BACK-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayzmatos22&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&exclude_repo=Basic-curriculum-in-HTML-CSS,login-Netflix-page,Controle-gastos-mensais&size_weight=0.5&count_weight=0.5" height="220" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jayzmatos22&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
+
 
 #### 📈 Atividade
 
@@ -107,12 +105,6 @@ MEU NOME É JAILTON, 23 ANOS, DESENVOLVEDOR FULLSTÁCK, COM GRANDE FOCO EM BACK-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayzmatos22&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8DB13F&line=61DAFB&point=ffffff&area=true" width="95%" />
 </div>
 
-#### 📊 Linguagens mais usadas
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jayzmatos22&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jayzmatos22&theme=tokyonight" height="180" />
-</div>
 
 ---
 
