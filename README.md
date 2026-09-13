@@ -11,13 +11,18 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=700&color=8DB13F&center=true&vCenter=true&width=600&lines=Construindo+sistemas+robustos+e+escal%C3%A1veis;Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;Em+busca+da+primeira+oportunidade" />
 
+</div>
+
 ---
 
 ### 👨‍💻 Sobre mim
 
-​```
-MEU NOME É JAILTON, 23 ANOS, DESENVOLVEDOR FULLSTÁCK, COM GRANDE FOCO EM BACK-END, EM BUSCA DE ESTÁGIO OU OPORTUNIDADE low-mid level NA ÁREA. STACK: jAVA, SPRINGBOOT, DOCKER, REACT.JS + TAILWIND CSS.
-​```
+```
+Jailton, 23 anos. Desenvolvedor fullstack com foco em back-end,
+em busca de estágio ou oportunidade low/mid level.
+
+Stack principal: Java · Spring Boot · Docker · React + Tailwind CSS
+```
 
 ---
 
@@ -34,7 +39,7 @@ MEU NOME É JAILTON, 23 ANOS, DESENVOLVEDOR FULLSTÁCK, COM GRANDE FOCO EM BACK-
   </tr>
   <tr>
     <td align="center"><b>Banco de Dados</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,postgres" /> 
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres" /></td>
   </tr>
   <tr>
     <td align="center"><b>DevOps & Tools</b></td>
@@ -43,30 +48,64 @@ MEU NOME É JAILTON, 23 ANOS, DESENVOLVEDOR FULLSTÁCK, COM GRANDE FOCO EM BACK-
 </table>
 
 ---
- <table>
-    <tr>
-      <td align="center" width="100%">
-        <h3>🇧🇷 Brasil Panel Utilities API</h3>
-        <a href="https://github.com/Jayzmatos22/brasil_panel_utilities-api">
-          <img src="https://img.shields.io/badge/Status-Em_PRODUÇÃO-green?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        &nbsp;
-        <img src="https://img.shields.io/badge/Monorepo-Backend_%2B_Frontend-8DB13F?style=for-the-badge" />
-        <br/><br/>
-        <p>Painel de dados financeiros brasileiros com múltiplas integrações de API, autenticação JWT stateless e cache Caffeine por ambiente.</p>
-        <p>
-          <b>APIs:</b> BCB · BrasilAPI · CoinGecko · Frankfurter · IBGE · WorldBank
-        </p>
-        <img src="https://skillicons.dev/icons?i=java,spring,react,ts,docker" />
-      </td>
-    </tr>
-   <ref>brasilpanel.com.br</ref>
-  </table>
+
+### 🇧🇷 Projeto em destaque
+
+<div align="center">
+
+<h3>Brasil Panel</h3>
+
+<a href="https://brasilpanel.com.br">
+  <img src="https://img.shields.io/badge/Ver_ao_vivo-brasilpanel.com.br-8DB13F?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://github.com/Jayzmatos22/brasil_panel_utilities-api">
+  <img src="https://img.shields.io/badge/C%C3%B3digo-Monorepo-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://brasilpanel.com.br">
+  <img src="https://raw.githubusercontent.com/Jayzmatos22/brasil_panel_utilities-api/main/docs/img/painel-desktop.png" width="88%" />
+</a>
+
+<br/><br/>
+
+<p><b>Painel de indicadores econômicos do Brasil, a partir de 12 fontes oficiais.</b></p>
+
+</div>
+
+Não é agregador de links: cada série passa pelo backend, que normaliza o formato,
+guarda histórico em PostgreSQL e serve o frontend a partir de um cache dimensionado
+pela cadência de cada fonte — é o que permite abrir uma página com quinze gráficos
+sem estourar a cota de nenhuma API.
+
+|  |  |
+|---|---|
+| **Backend** | Java 21 · Spring Boot 3.5 · Spring Security · PostgreSQL 18 + Flyway · Caffeine |
+| **Frontend** | React 19 · TypeScript · Vite 8 · Tailwind 4 · TanStack Query · ECharts |
+| **Deploy** | Vercel · Render (Docker) · Neon |
+| **Fontes** | BCB · IPEA · IBGE · SIDRA · World Bank · Frankfurter · Alpha Vantage · Metals.dev · CoinGecko · CoinMarketCap · BrasilAPI · ViaCEP |
+
+<div align="center">
+
+`96 endpoints` &nbsp;·&nbsp; `23 tabelas` &nbsp;·&nbsp; `77 caches` &nbsp;·&nbsp; `26 rotas`
+
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,react,ts,tailwind,docker" />
+
+</div>
+
+Três decisões que valem mais que a lista de tecnologias:
+
+- **JWT em cookie `HttpOnly`, sem CORS.** O rewrite da Vercel mantém front e API na mesma
+  origem, então o token fica inacessível ao JavaScript — imune a exfiltração por XSS.
+- **Logout que revoga de verdade.** JWT é stateless: sair só apagava o cookie e o token
+  seguia válido por 24h. Resolvido com denylist por `jti`, sem derrubar os outros aparelhos.
+- **Cache em duas camadas.** O do cliente economiza rede para um usuário; o do servidor
+  economiza cota para todos. São problemas diferentes.
 
 ---
 
-
-### 🔭 Projetos em destaque
+### 🔭 Outros projetos
 
 #### ⚙️ Backend & Full-Stack
 
@@ -91,7 +130,7 @@ MEU NOME É JAILTON, 23 ANOS, DESENVOLVEDOR FULLSTÁCK, COM GRANDE FOCO EM BACK-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jayzmatos22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayzmatos22&theme=tokyonight&hide_border=true&background=0D1117" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=Jayzmatos22&theme=tokyonight&hide_border=true&background=0D1117" height="170" />
 </div>
 
 <div align="center">
