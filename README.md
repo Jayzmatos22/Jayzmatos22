@@ -18,7 +18,7 @@
 ### 👨‍💻 Sobre mim
 
 ```
-Jailton, 23 anos. Desenvolvedor fullstack com foco em back-end,
+Jailton, 24 anos. Desenvolvedor fullstack com foco em back-end,
 em busca de estágio ou oportunidade low/mid level.
 
 Stack principal: Java · Spring Boot · Docker · React + Tailwind CSS
