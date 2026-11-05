@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,041e2b,0D1117&height=220&section=header&text=Jailton%20Santos&fontSize=58&fontColor=8DB13F&animation=twinkling&desc=FullStack%20Developer%20•%20Java%20%7C%20Spring%20%7C%20React&descAlignY=72&descSize=18&descColor=61DAFB" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,041e2b,0D1117&height=220&section=header&text=Jailton%20Santos&fontSize=58&fontColor=8DB13F&animation=twinkling&desc=FullStack%20Developer%20•%20Java%20%7C%20Python%20%7C%20React%20%7C%20AWS&descAlignY=72&descSize=18&descColor=61DAFB" width="100%" />
 
   <a href="https://www.linkedin.com/in/jailton-santos-b149752a0">
     <img src="https://img.shields.io/badge/Open_to_Work-Estágio_Backend%2FFullstack-8DB13F?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -9,7 +9,7 @@
 
   <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=700&color=8DB13F&center=true&vCenter=true&width=600&lines=Construindo+sistemas+robustos+e+escal%C3%A1veis;Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;Em+busca+da+primeira+oportunidade" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=700&color=8DB13F&center=true&vCenter=true&width=640&lines=Construindo+sistemas+robustos+e+escal%C3%A1veis;Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;Python+%7C+FastAPI+%7C+AWS+serverless;Em+busca+da+primeira+oportunidade" />
 
 </div>
 
@@ -21,7 +21,7 @@
 Jailton, 24 anos. Desenvolvedor fullstack com foco em back-end,
 em busca de estágio ou oportunidade low/mid level.
 
-Stack principal: Java · Spring Boot · Docker · React + Tailwind CSS
+Stack principal: Java · Spring Boot · Python · FastAPI · React + Tailwind CSS · AWS
 ```
 
 ---
@@ -30,30 +30,87 @@ Stack principal: Java · Spring Boot · Docker · React + Tailwind CSS
 
 <table>
   <tr>
-    <td align="center" width="120"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,py" /></td>
+    <td align="center" width="140"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,py,fastapi" /></td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css" /></td>
   </tr>
   <tr>
     <td align="center"><b>Banco de Dados</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,postgres" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,dynamodb" /></td>
   </tr>
   <tr>
-    <td align="center"><b>DevOps & Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,docker,idea,pycharm,vscode" /></td>
+    <td align="center"><b>Cloud & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,git,github" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Ferramentas</b></td>
+    <td><img src="https://skillicons.dev/icons?i=idea,pycharm,vscode" /></td>
   </tr>
 </table>
 
 ---
 
-### 🇧🇷 Projeto em destaque
+## ⭐ Projetos em destaque
 
 <div align="center">
 
-<h3>Brasil Panel</h3>
+<h3>🌌 MyWorld</h3>
+
+<a href="https://d3qm8fzq1hw1xt.cloudfront.net/">
+  <img src="https://img.shields.io/badge/Ver_ao_vivo-site_no_ar-C39853?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://github.com/Jayzmatos22/MyWorld">
+  <img src="https://img.shields.io/badge/C%C3%B3digo-FastAPI_%2B_React-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://d3qm8fzq1hw1xt.cloudfront.net/">
+  <img src="assets/myworld-sobre.jpg" width="88%" alt="Página de abertura do MyWorld: título 'O céu de cada dia, guardado desde 1995' sobre um buraco negro" />
+</a>
+
+<br/><br/>
+
+<p><b>A Astronomy Picture of the Day da NASA, desde 1995, num arquivo editorial com IA que responde sobre cada imagem.</b></p>
+
+</div>
+
+Cada dia vira uma "placa": imagem ou vídeo em destaque, explicação original e dados da observação.
+Dá para navegar por qualquer data, ver intervalos lado a lado, sortear placas, curtir as favoritas
+e perguntar a uma IA sobre o que aparece na imagem. Tudo roda na AWS sem servidor fixo, dentro do nível gratuito.
+
+|  |  |
+|---|---|
+| **Backend** | Python 3.13 · FastAPI · Pydantic v2 · SDK `openai` (NVIDIA, Groq, Google) · boto3 |
+| **Frontend** | React 19 · TypeScript · Vite 7 · Tailwind 4 · React Router 7 · WebGL |
+| **Cloud** | AWS Lambda (SAM) · DynamoDB · S3 + CloudFront · CloudWatch + SNS |
+| **Fonte** | NASA APOD (`science.nasa.gov`) |
+
+<div align="center">
+
+`11 mil+ placas` &nbsp;·&nbsp; `3 provedores de IA` &nbsp;·&nbsp; `US$ 0 de AWS` &nbsp;·&nbsp; `0 rastreadores`
+
+<img src="https://skillicons.dev/icons?i=py,fastapi,react,ts,vite,tailwind,aws,dynamodb" />
+
+</div>
+
+Três decisões que valem mais que a lista de tecnologias:
+
+- **IA que não inventa contexto.** O cliente manda só a data; o servidor busca a explicação da NASA
+  e é ela que vai para o modelo. Ninguém consegue trocar o contexto pelo navegador.
+- **Rate limit sem guardar IP.** Contadores no DynamoDB com o IP transformado em HMAC (IPv6 conta pelo `/64`)
+  e um disjuntor de custo: tráfego anormal põe a API em concorrência zero, e a conta não cresce.
+- **Buraco negro em WebGL.** Um shader faz os anéis girarem e o disco correr sobre a foto, com o centro parado;
+  a imagem de 7,5 MB chega ao celular com 45 KB.
+
+---
+
+<div align="center">
+
+<h3>🇧🇷 Brasil Panel</h3>
 
 <a href="https://brasilpanel.com.br">
   <img src="https://img.shields.io/badge/Ver_ao_vivo-brasilpanel.com.br-8DB13F?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -65,7 +122,7 @@ Stack principal: Java · Spring Boot · Docker · React + Tailwind CSS
 <br/><br/>
 
 <a href="https://brasilpanel.com.br">
-  <img src="https://raw.githubusercontent.com/Jayzmatos22/brasil_panel_utilities-api/main/docs/img/painel-desktop.png" width="88%" />
+  <img src="https://raw.githubusercontent.com/Jayzmatos22/brasil_panel_utilities-api/main/docs/img/painel-desktop.png" width="88%" alt="Painel do Brasil Panel com gráficos de indicadores econômicos" />
 </a>
 
 <br/><br/>
@@ -129,22 +186,19 @@ Três decisões que valem mais que a lista de tecnologias:
 ### 📊 GitHub em números
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayzmatos22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=Jayzmatos22&theme=tokyonight&hide_border=true&background=0D1117" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jayzmatos22&theme=tokyonight" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jayzmatos22&theme=tokyonight" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayzmatos22&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&exclude_repo=Basic-curriculum-in-HTML-CSS,login-Netflix-page,Controle-gastos-mensais&size_weight=0.5&count_weight=0.5" height="220" />
+  <img src="https://streak-stats.demolab.com/?user=Jayzmatos22&theme=tokyonight&hide_border=true&background=0D1117" height="165" />
 </div>
-
-
 
 #### 📈 Atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayzmatos22&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8DB13F&line=61DAFB&point=ffffff&area=true" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayzmatos22&theme=tokyonight" width="95%" />
 </div>
-
 
 ---
 
@@ -165,4 +219,3 @@ Três decisões que valem mais que a lista de tecnologias:
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,041e2b,0D1117&height=100&section=footer" width="100%"/>
 </div>
-
